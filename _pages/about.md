@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p> Hi! I'm Dayna, nice to meet you!</p>
-<p> I was born and raised in Los Angeles, and Seoul. More recently in my life, I spent a few years in New York to study at Columbia University. I studied Computer Science on the Applications track, and recently graduated in December 2022 :) </p>
+<p> I was born and raised (briefly) in Los Angeles, and (mostly) Seoul. More recently in my life, I spent a few years in New York to study at Columbia University. I studied Computer Science on the Applications track, and recently graduated in December 2022 :) </p>
 
 <p> I am particularly excited by Human-Computer Interaction (HCI), and Data Visualization, where I hope to illuminate meaningful, <em>human</em> stories through (otherwise lifeless) data. I am also generally interested in Technology for social good, and how software can solve intriciate societal problems.</p>
 
