@@ -10,8 +10,8 @@ comments: false
 
 <p> Hi!</p>
 <p> My name is Dayna! Nice to meet you :D </p>
-I recently graduated (December '22!) from Columbia University, where I studied Computer Science on the Applications track. 
-I am particularly excited by Human-Computer Interaction (HCI), and Data Visualization, where I hope to draw meaningful, <em>human</em> stories through data. 
+<p> I recently graduated (December '22!) from Columbia University, where I studied Computer Science on the Applications track. 
+I am particularly excited by Human-Computer Interaction (HCI), and Data Visualization, where I hope to draw meaningful, <em>human</em> stories through data. </p>
 
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4> -->
