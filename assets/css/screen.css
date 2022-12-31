@@ -1,3 +1,5 @@
+
+
 /* 
 Template Name: Mediumish 
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
@@ -305,7 +307,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: Righteous;
 }
 
 .mainheading h1.posttitle {
@@ -380,16 +382,6 @@ blockquote {
     text-align: center;
     border-radius: 50%;
 }
-
-.card {
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.125);
-    transition: box-shadow 0.25s ease-in-out;
-}
-
-.card:hover {
-    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.125);
-}
-
 
 .svgIcon {
     vertical-align: middle;
