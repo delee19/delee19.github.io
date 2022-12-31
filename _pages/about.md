@@ -20,7 +20,7 @@ I am particularly excited by Human-Computer Interaction (HCI), and Data Visualiz
 
 </div>
 
-<div class="col-md-4">:
+<div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
 <h5>Contact</h5>
