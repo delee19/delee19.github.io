@@ -1,14 +1,8 @@
-
-
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
-@media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
-}
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -30,7 +24,7 @@ pre {
     width: 100%;
     padding: 7px;
     font-family: monospace, sans-serif;
-    font-size: .9rem;
+    font-size: 14px;
     white-space: pre;
     overflow: auto;
     background: #fff;
@@ -172,7 +166,7 @@ section.recent-posts {
 }
 
 .wrapfooter {
-    font-size: .8rem;
+    font-size: 12px;
     display: flex;
     align-items: center;
     margin-bottom: 15px;
@@ -259,7 +253,7 @@ span.post-read-more a:hover {
     font-size: 0.8rem;
     border-radius: 30px;
     overflow: hidden;
-    border: 1px solid rgba(0, 0, 0, 0.09);
+    border: 1px solid rgba(0, 0, 0, 0.2);
     min-width: 180px;
 }
 
@@ -484,15 +478,6 @@ blockquote {
     background-color: #fafafa;
     padding: 40px 0 46px;
     position: relative;
-}
-
-.card {
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.125);
-    transition: box-shadow 0.25s ease-in-out;
-}
-
-.card:hover {
-    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.125);
 }
 
 .listrelated .card {
@@ -865,7 +850,7 @@ iframe {
 
 .spoiler {
     color: transparent;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     transition: all .4s;
     cursor: pointer;
     position: relative;
@@ -909,4 +894,32 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+#lunrsearchresults {
+    display: none;
+}
+
+.bd-search {
+    position: relative;
+}
+
+.bd-search label {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    opacity: 0.5;
+    margin: 0;
+    cursor: pointer;
+}
+
+.card {
+    transition:
+            box-shadow 0.25s ease-in-out,
+            transform 0.25s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.125);
+    transform: translateY(-5px);
 }
