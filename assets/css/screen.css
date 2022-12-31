@@ -301,7 +301,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'Erode', serif;
 }
 
 .mainheading h1.posttitle {
@@ -682,8 +682,12 @@ h4,
 h5,
 h6 {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
 }
 
+h2, h5 {
+    font-family: 'Erode', sans-serif;
+}
 .article-post .h1,
 .article-post .h2,
 .article-post .h3,
